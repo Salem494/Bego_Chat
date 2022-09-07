@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125125687363",
+    "project_id": "chatsss-36a2a",
+    "storage_bucket": "chatsss-36a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125125687363:android:9b4a76fdc50847e81dbcf6",
+        "android_client_info": {
+          "package_name": "com.salem.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125125687363-acatvdj7qelra55k6v4lo8o7v4mp1eve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJT_aex8pY6N4vkvcAFfL7LJ6UxV8a9A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125125687363-acatvdj7qelra55k6v4lo8o7v4mp1eve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
